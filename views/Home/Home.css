@@ -1,0 +1,15 @@
+select {
+  width: 150px;
+  height: 40px;
+  border-radius: 5px;
+  background-color: white;
+  margin-left: 20px;
+}
+
+.brands-name {
+  text-transform: capitalize;
+}
+
+span {
+  margin-left: 5px;
+}
